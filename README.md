@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQF5yJtFAeB3Ug/profile-displaybackgroundimage-shrink_350_1400/0/1676998688355?e=1689811200&v=beta&t=Xd8vj9fyPFUH7HjNg8epxBe2-Zt_tLoq6iCh2YsrMRM)
+![MasterHead](https://drive.google.com/file/d/1fzLD66hA0OIE9-7tnod2v3FSbL6nOvW4/view?usp=drive_link)
 <h1 align="center">Hi 👋, I'm Thomas Hall</h1>
 <h3 align="center">Technology Product Director and Blockchain Evangelist Committed to Changing the World One Blockchain at a Time</h3>
 
