@@ -1,4 +1,4 @@
-![Header](./[header_Explore.jpeg])
+![Header](https://github.com/YourDailyBlockchain/YourDailyBlockchain/blob/main/header_Explore.jpeg)
 <h1 align="center">Hi 👋, I'm Thomas Hall</h1>
 <h3 align="center">Technology Product Director and Blockchain Evangelist Committed to Changing the World One Blockchain at a Time</h3>
 
